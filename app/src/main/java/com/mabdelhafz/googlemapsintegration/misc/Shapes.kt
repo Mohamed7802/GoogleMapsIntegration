@@ -1,7 +1,7 @@
-package com.example.googlemapsdemo.misc
+package com.mabdelhafz.googlemapsintegration.misc
 
 import android.graphics.Color
-import com.example.googlemapsdemo.R
+import com.mabdelhafz.googlemapsintegration.R
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.model.*
 import kotlinx.coroutines.delay

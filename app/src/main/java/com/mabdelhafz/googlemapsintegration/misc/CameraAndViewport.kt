@@ -1,4 +1,5 @@
-package com.example.googlemapsdemo.misc
+package com.mabdelhafz.googlemapsintegration.misc
+
 
 import com.google.android.gms.maps.model.CameraPosition
 import com.google.android.gms.maps.model.LatLng
